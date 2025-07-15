@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"da6ee7d07d536d60","type":"file","file":"DAY1/What is Ethical Hacking.md","x":-380,"y":-420,"width":380,"height":280},
+		{"id":"84a38edd02043300","type":"text","text":"HACKING ","x":-380,"y":-100,"width":140,"height":60},
+		{"id":"f8db8376b28f2db0","type":"text","text":"Outsmarting any system ","x":-180,"y":-100,"width":240,"height":60},
+		{"id":"36d448d14617eb2d","type":"text","text":"If a thing design to do that work X but by hacking we do the work Y by creativity ","x":-180,"y":40,"width":250,"height":140},
+		{"id":"a7e467994781a7b1","type":"file","file":"DAY1/What is Ethical Hacking.md","x":180,"y":-420,"width":400,"height":340}
+	],
+	"edges":[
+		{"id":"4b6fe2ddf014db17","fromNode":"84a38edd02043300","fromSide":"right","toNode":"f8db8376b28f2db0","toSide":"left"},
+		{"id":"af2ce2b729b62408","fromNode":"84a38edd02043300","fromSide":"right","toNode":"36d448d14617eb2d","toSide":"left"}
+	]
+}
